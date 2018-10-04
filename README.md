@@ -48,7 +48,7 @@ Related UAC XML Files for template and task: [1]:
 
 The following describes the installation steps:
 
-**1.	Install Python 2.7.x  for Linux on any Linux Server running a Universal Agent **
+**1.	Install Python 2.7.x  for Linux on any Linux Server running a Universal Agent**
 
 Official Download link: https://www.python.org/downloads/ 
 Note: The check the current Python Version type in a shell: python -V (capital V) 
