@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-09-10 08:08:54" unload_format="1" unload_table="ops_script" unload_version="6.4.7.0"><ops_script action="INSERT_OR_UPDATE"><resolve_variables>true</resolve_variables><opswise_groups/><description/><sys_updated_on>2018-09-10 07:36:33</sys_updated_on><version>1</version><script_name>add_remove_user_from_group</script_name><content>USER,GROUP,[Add|Delete]
+testuser1,testgroup,Add
+testuser2,testgroup,Add
+testuser3,testgroup,Delete</content><sys_id>c3119215cb6c4618b0019103e60c898c</sys_id><sys_updated_by>ops.admin</sys_updated_by><sys_created_on>2018-09-10 07:36:33</sys_created_on><checksum/><script_type>5</script_type><sys_created_by>ops.admin</sys_created_by><related_items_node/></ops_script></unload>
